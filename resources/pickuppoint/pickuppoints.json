@@ -1,0 +1,23 @@
+{
+	"1":{"location":{"lattitude":13.056064,"longitude":77.633011,"updateTime":null},"stopName":"Thanisandra Bus Stop"},
+	"2":{"location":{"lattitude":13.038234,"longitude":77.62592,"updateTime":null},"stopName":"IAS coaching centre"},
+	"3":{"location":{"lattitude":13.018698,"longitude":77.656497,"updateTime":null},"stopName":"Cafe Coffee Day"},
+	"4":{"location":{"lattitude":13.011192,"longitude":77.662462,"updateTime":null},"stopName":"B. Channasandra bus stop"},
+	"5":{"location":{"lattitude":12.995888,"longitude":77.666475,"updateTime":null},"stopName":"Benniganahalli lake garden"},
+	"6":{"location":{"lattitude":12.981712,"longitude":77.693468,"updateTime":null},"stopName":"EMC corporation"},
+	"7":{"location":{"lattitude":12.960391,"longitude":77.701451,"updateTime":null},"stopName":"Karnataka bank"},
+	"8":{"location":{"lattitude":12.957328,"longitude":77.701258,"updateTime":null},"stopName":"Marathahali Bridge"},
+	"9":{"location":{"lattitude":12.951587,"longitude":77.699852,"updateTime":null},"stopName":"Innovative multiplex "},
+	"10":{"location":{"lattitude":12.944058,"longitude":77.697814,"updateTime":null},"stopName":"Kadubeesanahall Cricket Ground"},
+	"11":{"location":{"lattitude":12.93391,"longitude":77.689649,"updateTime":null},"stopName":"Vrindavan Tech Village"},
+	"12":{"location":{"lattitude":12.9071439,"longitude":77.6020666,"updateTime":null},"stopName":"Chai Point, BTM Layout"},
+	"13":{"location":{"lattitude":12.908824,"longitude":77.613634,"updateTime":null},"stopName":"8th Cross Rd, EWS Colony"},
+	"14":{"location":{"lattitude":12.91646,"longitude":77.615156,"updateTime":null},"stopName":"Vysya Bank"},
+	"15":{"location":{"lattitude":12.916774,"longitude":77.617592,"updateTime":null},"stopName":"Fast SAP Solution"},
+	"16":{"location":{"lattitude":12.917579,"longitude":77.623814,"updateTime":null},"stopName":"Silk Board"},
+	"17":{"location":{"lattitude":12.916031,"longitude":77.637536,"updateTime":null},"stopName":"HSR Layout"},
+	"18":{"location":{"lattitude":12.924449,"longitude":77.651033,"updateTime":null},"stopName":"Agara"},
+	"19":{"location":{"lattitude":12.921092,"longitude":77.663543,"updateTime":null},"stopName":"Shoba Garnet"},
+	"20":{"location":{"lattitude":12.923111,"longitude":77.670281,"updateTime":null},"stopName":"Akme Harmony Apartment"},
+	"21":{"location":{"lattitude":12.927774,"longitude":77.680827,"updateTime":null},"stopName":"Ecospace"}
+}

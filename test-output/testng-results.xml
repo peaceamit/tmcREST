@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="321" started-at="2014-04-23T20:19:03Z" finished-at="2014-04-23T20:19:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="321" started-at="2014-04-23T20:19:03Z" finished-at="2014-04-23T20:19:03Z">
+      <class name="com.unstructured.rest.service.RESTserviceTest">
+        <test-method status="PASS" signature="getStatus()[pri:0, instance:com.unstructured.rest.service.RESTserviceTest@30e3c624]" name="getStatus" duration-ms="308" started-at="2014-04-24T01:49:03Z" finished-at="2014-04-24T01:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+      </class> <!-- com.unstructured.rest.service.RESTserviceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

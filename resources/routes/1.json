@@ -1,0 +1,18 @@
+{
+	"routeNo":1,
+	"cabNo":1,
+	"stopList":{
+			"1":{"stopNo": 1},
+			"2":{"stopNo": 2},
+			"3":{"stopNo": 3},
+			"4":{"stopNo": 4},
+			"5":{"stopNo": 5},
+			"6":{"stopNo": 6},
+			"7":{"stopNo": 7},
+			"8":{"stopNo": 8},
+			"9":{"stopNo": 9},
+			"10":{"stopNo": 10},
+			"11":{"stopNo": 11},
+			"12":{"stopNo": 21}
+			}
+}
